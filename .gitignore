@@ -1,0 +1,5 @@
+# Ignore all log files
+*.log
+
+# Do not ignore important.log
+!important.log
